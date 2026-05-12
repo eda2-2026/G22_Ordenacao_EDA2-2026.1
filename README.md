@@ -31,7 +31,7 @@ Resultado da tabela de prioridade
 
 ### Vídeo do trabalho
 
-[Clique aqui para assistir à demonstração]()
+[Clique aqui para assistir à demonstração](https://youtu.be/9VEbuo-iI_4)
 
 
 ## Instalação
